@@ -160,17 +160,17 @@ A web-based platform designed to help coaching centers manage their academic ope
 
 ## Education
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<!-- <table>
+<tr> -->
+<!-- <td valign="top" width="50%"> -->
 
 **BRAC University**  
 Bachelor of Science (B.Sc.) in Computer Science  
 _2024 – Present_  
 Dhaka, Bangladesh
 
-</td>
-<td valign="top" width="50%">
+<!-- </td>
+<td valign="top" width="50%"> -->
 
 <!-- **🏆 Achievements**
 
@@ -178,9 +178,10 @@ Dhaka, Bangladesh
 - _Research Publication:_ `PAPER-TITLE` — `Venue/Journal` (`YYYY`)
 - _Award:_ `ACHIEVEMENT-NAME` — `Issuing Organization` (`YYYY`) -->
 
-</td>
+<!-- </td>
 </tr>
-</table>
+</table> -->
+
 Currently pursuing my undergraduate degree in Computer Science, building a strong foundation in software engineering, algorithms, data structures, and modern computing technologies.
 
 ---
