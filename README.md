@@ -27,7 +27,7 @@ Building production-oriented software with a focus on backend engineering, appli
 
 ---
 
-## Tech Stack
+## Tech Stacks
 
 <table>
   <tr>
@@ -85,6 +85,7 @@ Building production-oriented software with a focus on backend engineering, appli
 </p>
 
     </td>
+
   </tr>
 </table>
 
@@ -92,7 +93,7 @@ Building production-oriented software with a focus on backend engineering, appli
 
 ## Projects & Experience
 
-### 🧠 AI Document Analyser — *Flagship Project*
+### 🧠 AI Document Analyser — _Flagship Project_
 
 A retrieval-augmented generation system that ingests documents and answers questions about them with grounded, streamed responses.
 
@@ -126,18 +127,18 @@ A retrieval-augmented generation system that ingests documents and answers quest
 </table>
 
 > **Repository:** `https://github.com/Ratul-code/REPO-NAME` &nbsp;•&nbsp; **Live Demo:** `https://YOUR-DEMO-URL.example.com`
-> *(Replace both placeholders above with your actual URLs.)*
+> _(Replace both placeholders above with your actual URLs.)_
 
 <br/>
 
 ### 🚧 More Projects
 
-> *Placeholder — upcoming projects will be featured here.*
+> _Placeholder — upcoming projects will be featured here._
 
-| Project | Description | Stack | Links |
-| :-- | :-- | :-- | :-- |
-| `PROJECT-NAME` | *Short one-line description of what it does and why it matters.* | `Python`, `FastAPI` | [Repo](https://github.com/Ratul-code/REPO-NAME) · [Demo](https://YOUR-DEMO-URL.example.com) |
-| `PROJECT-NAME` | *Short one-line description of what it does and why it matters.* | `TypeScript`, `Next.js` | [Repo](https://github.com/Ratul-code/REPO-NAME) · [Demo](https://YOUR-DEMO-URL.example.com) |
+| Project        | Description                                                      | Stack                   | Links                                                                                       |
+| :------------- | :--------------------------------------------------------------- | :---------------------- | :------------------------------------------------------------------------------------------ |
+| `PROJECT-NAME` | _Short one-line description of what it does and why it matters._ | `Python`, `FastAPI`     | [Repo](https://github.com/Ratul-code/REPO-NAME) · [Demo](https://YOUR-DEMO-URL.example.com) |
+| `PROJECT-NAME` | _Short one-line description of what it does and why it matters._ | `TypeScript`, `Next.js` | [Repo](https://github.com/Ratul-code/REPO-NAME) · [Demo](https://YOUR-DEMO-URL.example.com) |
 
 ---
 
@@ -157,15 +158,15 @@ Computer Science
 
 **🏆 Achievements**
 
-- *Certification:* `CERTIFICATION-NAME` — `Issuing Organization` (`YYYY`)
-- *Research Publication:* `PAPER-TITLE` — `Venue/Journal` (`YYYY`)
-- *Award:* `ACHIEVEMENT-NAME` — `Issuing Organization` (`YYYY`)
+- _Certification:_ `CERTIFICATION-NAME` — `Issuing Organization` (`YYYY`)
+- _Research Publication:_ `PAPER-TITLE` — `Venue/Journal` (`YYYY`)
+- _Award:_ `ACHIEVEMENT-NAME` — `Issuing Organization` (`YYYY`)
 
 </td>
 </tr>
 </table>
 
-> *Placeholders above are intentionally generic — replace them with your actual achievements. Nothing here is invented.*
+> _Placeholders above are intentionally generic — replace them with your actual achievements. Nothing here is invented._
 
 ---
 
