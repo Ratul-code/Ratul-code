@@ -2,11 +2,13 @@
 
 <img src="assets/banner.png" alt="Ratul — Full-Stack Developer, AI & Backend Engineering" width="100%"/>
 
-<p>
-  <a href="https://github.com/Ratul-code"><img src="https://img.shields.io/badge/GitHub-Ratul--code-111827?style=flat-square&logo=github&logoColor=a3e635" alt="GitHub profile of Ratul-code"/></a>
-  <a href="https://www.linkedin.com/in/rafihasan-dev/"><img src="https://img.shields.io/badge/LinkedIn-YOUR--HANDLE-111827?style=flat-square&logo=linkedin&logoColor=a3e635" alt="LinkedIn profile — replace with your handle"/></a>
-  <a href="mailto:rafiratul01@gmail.com"><img src="https://img.shields.io/badge/Email-YOUR--EMAIL-111827?style=flat-square&logo=gmail&logoColor=a3e635" alt="Email — replace with your email address"/></a>
-</p>
+<!-- <p> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ratul--code-a3e635?style=flat-square&logo=github&logoColor=111827)](https://github.com/Ratul-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a3e635?style=flat-square&logo=linkedin&logoColor=111827)](https://www.linkedin.com/in/rafihasan-dev/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-a3e635?style=flat-square&logo=gmail&logoColor=111827)](mailto:rafiratul01@gmail.com)
+
+<!-- </p> -->
 
 </div>
 
@@ -100,14 +102,16 @@ A retrieval-augmented generation system that ingests documents and answers quest
 
 <p>
   <a href="https://github.com/Ratul-code/AI-Document-Assistant-RAG-"><img src="https://img.shields.io/badge/Repository-View%20Source-111827?style=flat-square&logo=github&logoColor=a3e635" alt="View the AI Document Analyser repository source code"/></a>
-  <a href="https://YOUR-DEMO-URL.example.com"><img src="https://img.shields.io/badge/Live_Demo-Try%20It-111827?style=flat-square&logo=vercel&logoColor=a3e635" alt="Open the AI Document Analyser live demo"/></a>
+  <!-- <a href="https://YOUR-DEMO-URL.example.com"><img src="https://img.shields.io/badge/Live_Demo-Try%20It-111827?style=flat-square&logo=vercel&logoColor=a3e635" alt="Open the AI Document Analyser live demo"/></a> -->
 </p>
 
 </td>
 </tr>
 </table>
 
-> **Repository:** `https://github.com/Ratul-code/REPO-NAME` &nbsp;•&nbsp; **Live Demo:** `https://YOUR-DEMO-URL.example.com`
+> **Repository:** `https://github.com/Ratul-code/AI-Document-` &nbsp;•&nbsp;
+
+ <!-- **Live Demo:** `https://YOUR-DEMO-URL.example.com` -->
 
 <br/>
 
@@ -209,7 +213,7 @@ Currently pursuing my undergraduate degree in Computer Science, building a stron
 **Thanks for visiting — let's build something meaningful.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ratul--code-a3e635?style=flat-square&logo=github&logoColor=111827)](https://github.com/Ratul-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a3e635?style=flat-square&logo=linkedin&logoColor=111827)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-a3e635?style=flat-square&logo=gmail&logoColor=111827)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a3e635?style=flat-square&logo=linkedin&logoColor=111827)](https://www.linkedin.com/in/rafihasan-dev/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-a3e635?style=flat-square&logo=gmail&logoColor=111827)](mailto:rafiratul01@gmail.com)
 
 </div>
