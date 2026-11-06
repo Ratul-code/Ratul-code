@@ -2,12 +2,6 @@
 
 <img src="assets/banner.png" alt="Ratul — Full-Stack Developer, AI & Backend Engineering" width="100%"/>
 
-# Ratul
-
-**Full-Stack Developer | AI & Backend Engineering**
-
-Building production-oriented software with a focus on backend engineering, applied AI, and scalable systems.
-
 <p>
   <a href="https://github.com/Ratul-code"><img src="https://img.shields.io/badge/GitHub-Ratul--code-111827?style=flat-square&logo=github&logoColor=a3e635" alt="GitHub profile of Ratul-code"/></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-YOUR--HANDLE-111827?style=flat-square&logo=linkedin&logoColor=a3e635" alt="LinkedIn profile — replace with your handle"/></a>
@@ -24,16 +18,13 @@ Building production-oriented software with a focus on backend engineering, appli
 - 🛠️ Interested in **backend engineering**, **full-stack development**, and **applied AI**
 - 🚀 Building production-oriented software projects end to end
 - 🌱 Exploring **scalable systems**, **RAG**, and **software architecture**
+- 💡 Turning ideas into working software — from backend services to AI-powered features
 
 ---
 
 ## Tech Stacks
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-**Languages**
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=a3e635" alt="Python"/>
@@ -42,14 +33,15 @@ Building production-oriented software with a focus on backend engineering, appli
   <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=a3e635" alt="SQL"/>
 </p>
 
-**Backend**
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=a3e635" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=a3e635" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=a3e635" alt="Express"/>
 </p>
 
-**Frontend**
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=a3e635" alt="React"/>
@@ -57,17 +49,15 @@ Building production-oriented software with a focus on backend engineering, appli
   <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=a3e635" alt="Tailwind CSS"/>
 </p>
 
-    </td>
-    <td valign="top" width="50%">
-
-**Database**
+### Database
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=a3e635" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=a3e635" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=a3e635" alt="Redis"/>
 </p>
 
-**Infrastructure**
+### Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=a3e635" alt="Docker"/>
@@ -75,7 +65,7 @@ Building production-oriented software with a focus on backend engineering, appli
   <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=a3e635" alt="GitHub Actions"/>
 </p>
 
-**AI**
+### AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=openai&logoColor=a3e635" alt="RAG"/>
@@ -83,11 +73,6 @@ Building production-oriented software with a focus on backend engineering, appli
   <img src="https://img.shields.io/badge/Vector_Search-111827?style=flat-square&logo=qdrant&logoColor=a3e635" alt="Vector Search"/>
   <img src="https://img.shields.io/badge/LLM_Integrations-111827?style=flat-square&logo=huggingface&logoColor=a3e635" alt="LLM Integrations"/>
 </p>
-
-    </td>
-
-  </tr>
-</table>
 
 ---
 
